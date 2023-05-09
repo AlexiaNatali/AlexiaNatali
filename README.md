@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">Hola 👋, soy Alexia Natali Márquez Rivas</h1>
+<h1 align="center">Hola, soy Alexia Natali Márquez Rivas</h1>
 <h3 align="center">💻 Estudiante de Ingeniería de Software</h3>
 <h3 align="center">🎶 Charlie Rodd - Al Final</h3>
 <img aling="center" alt="coding" with="400" src="https://artsdot.com/ADC/Art-ImgScreen-3.nsf/O/A-8XXRRR/$FILE/Claude_monet-field_of_yellow_irises_at_giverny.Jpg">
